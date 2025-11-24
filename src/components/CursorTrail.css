@@ -1,0 +1,27 @@
+.custom-cursor {
+  width: 20px;
+  height: 20px;
+  border: 2px solid #10b981;
+  border-radius: 50%;
+  position: fixed;
+  pointer-events: none;
+  z-index: 9999;
+  mix-blend-mode: difference;
+  box-shadow: 0 0 20px rgba(16, 185, 129, 0.5);
+}
+
+.custom-cursor-trail {
+  width: 40px;
+  height: 40px;
+  border: 1px solid rgba(59, 130, 246, 0.5);
+  border-radius: 50%;
+  position: fixed;
+  pointer-events: none;
+  z-index: 9998;
+  mix-blend-mode: difference;
+}
+
+/* Hide default cursor on hover over interactive elements */
+a, button, .clickable {
+  cursor: none;
+}
