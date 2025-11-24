@@ -173,7 +173,7 @@ function App() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.6 }}
           >
-            <span>Junior Network Administrator</span> & <span>Full Stack Developer</span>
+            <span>Junior Network Administrator</span> & <span>Cross-platform developer</span>
           </motion.div>
           
           <motion.p
@@ -238,7 +238,7 @@ function App() {
               viewport={{ once: true }}
               transition={{ duration: 0.6 }}
             >
-            <h3>Junior Network Administrator & Full Stack Developer</h3>
+            <h3>Junior Network Administrator &  Cross-platform Developer</h3>
             <p>
               Saya adalah seorang Junior Network Administrator dengan sertifikasi Digital Talent Scholarship 
               dan AWS Academy Graduate - Cloud Foundations. Memiliki passion dalam pengembangan aplikasi 
@@ -266,7 +266,7 @@ function App() {
                 whileHover={{ y: -10, scale: 1.05 }}
               >
                 <h4>🎯 Spesialisasi</h4>
-                <p>Full Stack Development & Cloud Computing</p>
+                <p>Cross-platform Development & Cloud Computing</p>
               </motion.div>
               <motion.div 
                 className="highlight-item"
@@ -403,7 +403,7 @@ function App() {
           />
           <TimelineItem
             year="2024 - 2025"
-            title="Full Stack Developer"
+            title="Cross-platform Developer"
             company="Aturin Project Team"
             description="Mengembangkan Aturin - Scheduler App yang membantu pengguna mengatur tugas dan produktivitas harian. Menggunakan Flutter untuk mobile dan React untuk web dashboard dengan fitur rekomendasi pintar dan analytics."
             achievement="Successfully Launched on Play Store"
@@ -616,7 +616,7 @@ function App() {
         >
           <div className="footer-section">
             <h3>Rakha Maulana</h3>
-            <p>Junior Network Administrator & Full Stack Developer. AWS Academy Graduate building scalable digital solutions.</p>
+            <p>Junior Network Administrator & Cross-platform Developer. AWS Academy Graduate building scalable digital solutions.</p>
           </div>
           
           <div className="footer-section">
